@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NUSA Story</string>
+
+    <string name="title">Napier University Space Association</string>
+    <string name="title2">An Interactive Story</string>
+
+    <string name="mm_btn1">Play Story</string>
+    <string name="mm_btn2">ISS Location</string>
+
+
+</resources>
