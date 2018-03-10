@@ -4,8 +4,26 @@
     <string name="title">Napier University Space Association</string>
     <string name="title2">An Interactive Story</string>
 
+    <string name="intro_text">Are you ready to take control of the International Space Station, and get your crew back to earth safely in any event? \nWell&#8230;we will soon see Captain!</string>
     <string name="mm_btn1">Play Story</string>
-    <string name="mm_btn2">ISS Location</string>
+
+    <string name="S1_Story">Ground Control inform you the ISS\' orbital trajectory needs to be changed in order to successfully complete the main mission but you know that if you continue on your current trajectory you will complete your scientific research mission first\. What do you want to do Captain\?</string>
+    <string name="S1_Choice1">Follow Ground Controls order.</string>
+    <string name="S1_Choice2">I\'ll follow the current trajectory.</string>
+
+    <string name="S2_Story">You needed the current trajectory in order to complete your research with the extraterrestrial specimens that you have on board, as you head into the research capsule the alarms on board start ringing out from the command capsule. Your colleagues are in the social capsule where you all eat and sleep.</string>
+    <string name="S2_Choice1">Warn your colleagues first then engage emergency procedures.</string>
+    <string name="S2_Choice2">Engage the emergency procedures and get to the escape capsule.</string>
+
+
+    <string name="S3_Story">As you attempt to change the trajectory on the flight management computer, you hear an explosion from the other side of the space station. You hear your colleague screaming for help! You think quickly and you have 2 options, what do you do?</string>
+    <string name="S3_Choice1">Try to save your colleague and close the hatch.</string>
+    <string name="S3_Choice2">Send out a MAYDAY signal to ground control.</string>
+
+
+    <string name="S4_Finish">You engage the emergency procedures, the crew don their spacesuits and you all get the escape capsule, where you start thrusters and head back towards earth. When you land you are greeted by a rescue crew and a cheering crowd. Good job Captain!</string>
+    <string name="S5_Finish">You attempt to send out a MAYDAY signal to Ground Control but as you do you try to close the hatch to your capsule knowing that the oxygen is quickly escaping. Your too slow and suffocate en-route. Your another statistic Captain.</string>
+    <string name="S6_Finish">As you try to grab your colleague and close the capsules hatch, the decompression becomes too catastrophic and you along with the crew and the contents of the space station are sucked into deep space. Goodbye Captain.</string>
 
 
 </resources>
